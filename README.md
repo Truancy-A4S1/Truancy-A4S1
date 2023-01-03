@@ -15,3 +15,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=truancy-a4s1)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truancy-a4s1&" alt="truancy-a4s1" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truancy-a4s1)](https://github.com/anuraghazra/github-readme-stats)
