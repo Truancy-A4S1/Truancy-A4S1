@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Atlan </h1>
+<h1 align="center">Hii!</h1>
 <h3 align="center">2nd Year BS Computer Science Student</h3>
 <h3 align="center">Major in Information Technology</h3>
 <br><br>
