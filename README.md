@@ -1,6 +1,6 @@
 <h1 align="center">Hii!</h1>
-<h3 align="center">222222222t</h3>
-<h3 align="center">MMMMMMMMMMMM</h3>
+<h3 align="center">Ako ay isang lamok🦟</h3>
+<h3 align="center"></h3>
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truancy-a4s1&label=Profile%20views&color=0e75b6&style=flat" alt="truancy-a4s1" /> </p>
