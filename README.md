@@ -1,5 +1,7 @@
-<h1 align="center">Hii!</h1>
-<h3 align="center">Ako ay isang lamok🦟</h3>
+<h1 align="center">Ako'y isang lamok <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/155/mosquito_1f99f.png" alt="lamok" style="width:20px;height:20px;"></h1>
+
+<h3 align="center"></h3>
+
 <h3 align="center"></h3>
 <br><br>
 
