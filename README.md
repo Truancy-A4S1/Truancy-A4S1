@@ -18,5 +18,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Truancy-A4S1)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truancy-A4S1)](https://github.com/Truancy-A4S1/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Truancy-A4S1&layout=compact"/>
 
