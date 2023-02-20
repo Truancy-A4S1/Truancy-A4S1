@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Truancy-A4S1&theme=dark)](https://git.io/streak-stats&theme=dark"/> </p>
 
 
-<img src="https://github.com/Truancy-A4S1/WebDev/blob/main/random_img/ezgif-5-d1444872c6.gif" width="20%" height="200px" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Truancy-A4S1&layout=compact&theme=dark" width="60%" height="200px" align="center"><img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="20%" height="200px" align="right"/>
+<img src="https://github.com/Truancy-A4S1/WebDev/blob/main/random_img/ezgif-5-d1444872c6.gif" width="20%" height="200px" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Truancy-A4S1&layout=compact&theme=dark" width="55%" height="200px" align="center"><img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="20%" height="200px" align="right"/>
 
 
 <h3 align="left">Connect with me:</h3>
